@@ -1,0 +1,61 @@
+<html xmlns:o='urn:schemas-microsoft-com:office:office' xmlns:w='urn:schemas-microsoft-com:office:word' xmlns='http://www.w3.org/TR/REC-html40'><head><meta charset='utf-8'><title>Export HTML to Word Document with JavaScript</title></head><body>
+    <h1>
+      <center>DATA WISUDAWAN</center>
+
+
+
+                        <table border="0" style="margin-bottom: 15px;">
+
+            <tbody><tr>
+              <td rowspan="10">1</td>
+            </tr>
+            <tr>
+              <td rowspan="10">
+                <div class="row align-items-center justify-content-center">
+                  <img src="https://siwisda.umkendari.ac.id/uploads/foto_mhs/foto_mhs20230201142904.jpg" width="100" height="140">
+
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td style="text-align: left;">Nama</td>
+              <td>:</td>
+              <td style="text-align: left; ">Aldiansyah</td>
+            </tr>
+            <tr>
+              <td style="text-align: left;">Stambuk</td>
+              <td>:</td>
+              <td style="text-align: left;">21811023</td>
+            </tr>
+            <tr>
+              <td style="text-align: left;">Alamat</td>
+              <td>:</td>
+              <td style="text-align: left;">Jl. Lumba-lumba, Rt 04 Rw 01</td>
+            </tr>
+            <tr>
+              <td style="text-align: left;">Tempat/Tanggal Lahir</td>
+              <td>:</td>
+              <td style="text-align: left;">Kendari, 16 Mei 2000</td>
+            </tr>
+            <tr>
+              <td style="text-align: left;">No.HP</td>
+              <td>:</td>
+              <td style="text-align: left;">085145272194</td>
+            </tr>
+            <tr>
+              <td style="text-align: left;">IPK</td>
+              <td>:</td>
+              <td style="text-align: left;">3.70</td>
+            </tr>
+            <tr>
+              <td style="text-align: left;">Judul Skripsi</td>
+              <td>:
+                </td><td style="text-align: left;">PERAN KEPALA SEKOLAH DALAM PENGADAAN SARANA DAN PRASARANA DI SMK NEGERI 4 KENDARI (STUDI KASUS: PENGADAAN SARANA DAN PRASARANA PADA JURUSAN KRIYA KAYU)</td>
+              </tr>
+
+            </tbody></table>
+            
+
+                  
+
+      </h1></body></html>
